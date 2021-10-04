@@ -6,6 +6,7 @@ public class water {
 
     // with out water no one survive
 
-
+// even animals can not live with out water
+    // isn't easy
 
 }
