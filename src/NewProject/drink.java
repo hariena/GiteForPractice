@@ -5,4 +5,7 @@ public class drink {
 
     // coco
     // fahjgfaljf
+
+    // most of the are good for us
+    // except the drinks has alchole
 }
